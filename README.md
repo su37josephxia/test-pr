@@ -3,6 +3,7 @@
 
 * shengxinjing
 * yangtao
+* wangxinyu
 * layanxia
 * liwei
 * pengxiaolong
