@@ -3,6 +3,7 @@
 
 * shengxinjing
 * yangtao
+* baixue 
 * pengxiaolong
 * zhangyuxuan
 * gaoshaoyun
